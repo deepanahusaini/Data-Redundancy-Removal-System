@@ -1,0 +1,4 @@
+name,email,phone,status
+john doe,JOHN@gmail.com,9876543210,exact_duplicate
+Jane Smith,jane@gmail.com,9123456780,exact_duplicate
+Jon Doe,john@gmail.com,9876543210,near_duplicate

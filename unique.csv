@@ -1,0 +1,6 @@
+name,email,phone,status
+John Doe,john@gmail.com,9876543210,unique
+Jane Smith,jane@gmail.com,9123456780,unique
+Rahul Verma,rahul@yahoo.com,9988776655,unique
+Priya Sharma,priya@outlook.com,9001122334,unique
+John Doe,john.doe@work.com,9000000001,false_positive
